@@ -1,0 +1,19 @@
+body {background-color: #f3da83;}
+
+p {font-family: "Times New Roman", Times, serif; color: black; text-align: left; letter-spacing: 1px;}
+
+
+H1, H2, H3, H4, H5, H6 {text-align: center; color: #331a00}
+
+H1 {font-size: 220%; line-height: 0.9; letter-spacing: 2px; word-spacing: 5px;}
+H2 {font-size: 170%; word-spacing: 3px;}
+H3 {font-size: 150%;}
+H4 {font-size: 125%;}
+H5 {font-size: 110%;}
+H6 {font-size: 100%;}
+
+p b {font-size: 110%; color: #804000;}
+
+pre {color: #303336;}
+
+img {border-style: ridge; border-color: black; color: grey;}

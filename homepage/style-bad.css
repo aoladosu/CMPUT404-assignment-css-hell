@@ -1,0 +1,168 @@
+body {
+	background-color: #f2f2f2;
+}
+
+p {
+	font-family: "Times New Roman", Times, serif;
+	color: black;
+	text-align: left;
+	letter-spacing: 1px;
+}
+
+/*google*/
+div.google {
+	background-image: url("blue.jpg");
+	border: 0pt;
+	margin: 0pt;
+	padding: 0pt;
+}
+
+div.google center {
+	font-size: 1000%;
+	letter-spacing: 40pt;
+}
+
+.G1{
+	color: blue;
+}
+
+.O1{
+	color: #DB4437;
+}
+
+.O2{
+	color: #F4B400;
+}
+
+.G2{
+	color: blue;
+}
+
+.L{
+	color: #0F9D58;
+}
+
+.E{
+	color: #DB4437;
+}
+
+/* top bar styling*/
+div.topbar-nav ul {
+	list-style-type:none;
+	margin: 0;
+  	padding: 10pt;
+  	text-align: center;
+  	background-image: linear-gradient(yellow, orange);
+}
+
+div.topbar-nav li {
+	display: inline;
+	font-size: 160%;
+	padding: 45pt;
+	color: orange;
+}
+
+div.topbar-nav li a {
+	text-decoration: none;
+	color: black;
+}
+
+div.topbar-nav li a:hover {
+	text-decoration: none;
+	color: blue;
+}
+
+/* sidebar styling*/
+div.sidebar-nav {
+	float: right;
+	text-align: center;
+	margin-top: 14pt;
+	padding: 20pt;
+	border: 5px hidden #555;
+	background-color: #e6b800;
+	width: 20%;
+}
+
+div.sidebar-nav ul {
+  	list-style-type:none;
+	margin: 0;
+  	padding: 0;
+}
+
+div.sidebar-nav ul li b {
+	font-size: 160%;
+	color: black;
+}
+
+div.sidebar-nav ul li{
+	display: block;
+	padding: 8px 16px;
+	color: #008ae6;
+	font-size: 120%;
+}
+
+div.sidebar-nav ul li center {
+	color: black;
+	font-size: 10pt;
+	padding: 8px 16px;
+}
+
+img.catimg{
+	width: 100%;
+}
+
+/* all the info styling*/
+
+div.info-container{
+	margin-right: 25%;
+}
+
+div div.profile, div.potential, div.history {
+	padding-left: 5pt;
+}
+
+div.potential {
+	padding-right: 10pt;
+}
+
+
+H3 {
+	font-size: 150%;
+	margin: 0pt;
+	padding-bottom: 5pt;
+	padding-top: 10pt
+}
+
+img.dog1img{
+	width: 100%;
+}
+
+div.profile-text {
+	margin-left: 80pt;
+	margin-top: 10pt;
+}
+
+img.dog2img{
+	width: 100%;
+	margin-top: 25pt;
+}
+
+div.potential-text {
+	margin-top: 60pt;
+	width: 73%;
+}
+
+img.dog3img{
+	width: 100%;
+	margin-top: 25pt;
+}
+
+div.history-text {
+	margin-left: 180pt;
+	margin-top: 25pt;
+}
+
+p.info-text{
+	margin: 0pt;
+	padding-bottom: 30pt;
+}
